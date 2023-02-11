@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**CoCo9122/CoCo9122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+  - React, Django, Flask, Go 
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 近況
+
+- Semantinc Segmentationの論文を執筆中
+- Webアプリ(React, Django, Flask, Go)の勉強中
+- クラウド(Azure AWS)も勉強中
+
+### 保有資格
+
+- CKAD
+- CKA
+- ITIL4
+
+### Github Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoCo9122&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=CoCo9122&theme=cobalt&show_icons=ture" />
+</p>
