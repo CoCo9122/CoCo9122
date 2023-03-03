@@ -8,7 +8,7 @@
 ### 近況
 
 - Semantinc Segmentationの論文を執筆中
-- Webアプリ(React, Django, Flask, Go)の勉強中
+- Webアプリ(React, Django, Flask, Go, GAS)の勉強中
 - クラウド(Azure AWS)も勉強中
 
 ### 保有資格
