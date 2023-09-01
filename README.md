@@ -16,6 +16,7 @@
 - CKAD
 - CKA
 - ITIL4
+- Azure Fundamentals
 
 ### Github Status
 
